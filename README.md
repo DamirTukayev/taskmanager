@@ -5,7 +5,6 @@ This project is a Task Manager application with a **Frontend** built using **Vue
 
 ### Features
 - Create, update, delete, and view tasks.
-- Visualize tasks in a calendar with highlighted task dates.
 - Real-time task management and status updates.
 - Responsive UI with Vuetify components.
 
